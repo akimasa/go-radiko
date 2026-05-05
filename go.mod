@@ -1,4 +1,4 @@
-module github.com/yyoshiki41/go-radiko
+module github.com/akimasa/go-radiko
 
 go 1.17
 
