@@ -9,8 +9,8 @@ import (
 	"path"
 	"time"
 
-	"github.com/yyoshiki41/go-radiko/internal/m3u8"
-	"github.com/yyoshiki41/go-radiko/internal/util"
+	"github.com/akimasa/go-radiko/internal/m3u8"
+	"github.com/akimasa/go-radiko/internal/util"
 )
 
 const (
