@@ -14,7 +14,7 @@ import (
 )
 
 const (
-	timeshiftEndpoint = "https://tf-f-rpaa-radiko.smartstream.ne.jp/tf/playlist.m3u8"
+	timeshiftEndpoint = "https://dr-wowza.radiko-cf.com/tf/playlist.m3u8"
 
 	radikoAreaIDHeader = "X-Radiko-AreaId"
 )
